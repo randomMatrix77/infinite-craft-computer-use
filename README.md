@@ -4,7 +4,7 @@ An autonomous, zero-shot AI agent that plays [Infinite Craft](https://neal.fun/i
 
 **Key Constraints Solved:** Zero DOM/HTML access, no backend API hooking, and no hardcoded game logic. The agent relies entirely on a local vision-language model to read the screen, calculate exact `(X,Y)` coordinates, and execute deterministic mouse movements.
 
-📺 **[Watch the 60-Second Architecture Breakdown on YouTube](https://youtube.com/watch?v=YOUR_VIDEO_ID_HERE)**
+📺 **[Watch Demo on YouTube](https://youtu.be/OJNZ6LY-Pow)**
 
 ---
 
